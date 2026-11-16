@@ -12,7 +12,7 @@ Create a game in which the computer selects a secret number within a defined ran
 
 ## 3. Learning Objectives
 
-- Generate random numbers using Python's `random` module.
+- Generate random numbers using python's `random` module.
 - Accept and validate numeric input.
 - Use loops to repeat gameplay.
 - Compare values with conditional statements.
