@@ -77,6 +77,6 @@ Ask whether the player wants to start a new round. A new round must generate a n
 
 ## 8. Submission Requirements
 
-**Python source code:** The complete implementation.
-**Test cases:** At least 10 test cases other than above suggestion covering valid and invalid inputs.
-**Sample output:** Screenshots or terminal output demonstrating the program's behavior.
+- **Python source code:** The complete implementation.
+- **Test cases:** At least 10 test cases other than above suggestion covering valid and invalid inputs.
+- **Sample output:** Screenshots or terminal output demonstrating the program's behavior.
