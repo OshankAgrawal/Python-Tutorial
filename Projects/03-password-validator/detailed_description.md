@@ -2,13 +2,9 @@
 
 ## 1. Project Overview
 
-**Project Name:** Password Validation System
-
-**Difficulty Level:** Beginner
-
-**Programming Language:** Python
-
-**Core Concepts:** Strings, loops, conditional statements, logical operators, and input validation.
+- **Difficulty Level:** Beginner
+- **Programming Language:** Python
+- **Core Concepts:** Strings, loops, conditional statements, logical operators, and input validation.
 
 ### Problem Statement
 
