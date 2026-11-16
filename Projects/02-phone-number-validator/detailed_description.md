@@ -1,14 +1,10 @@
-# Mini Project 2. Project Overview
+# Mini Project 2: Mobile Number Validation System
 
 ## 1. Project Overview
 
-**Project Name:** International Mobile Number Validation System
-
-**Difficulty Level:** Beginner
-
-**Programming Language:** Python
-
-**Core Concepts:** Strings, conditional statements, loops, string methods, and input validation.
+- **Difficulty Level:** Beginner
+- **Programming Language:** Python
+- **Core Concepts:** Strings, conditional statements, loops, string methods, and input validation.
 
 ### Problem Statement
 
