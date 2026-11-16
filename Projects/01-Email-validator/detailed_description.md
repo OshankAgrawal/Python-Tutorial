@@ -1,14 +1,10 @@
-# Mini Project 1. Project Overview
+# Mini Project 1: Email Validation System
 
 ## 1. Project Overview
 
-**Project Name:** Email Validation System
-
-**Difficulty Level:** Beginner
-
-**Programming Language:** Python
-
-**Core Concepts:** Strings, string methods, conditional statements, loops, and input validation.
+- **Difficulty Level:** Beginner
+- **Programming Language:** Python
+- **Core Concepts:** Strings, string methods, conditional statements, loops, and input validation.
 
 ### Problem Statement
 
