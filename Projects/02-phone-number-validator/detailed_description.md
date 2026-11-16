@@ -225,6 +225,6 @@ Real international mobile number validation requires country-specific numbering 
 
 ## 6. Submission Requirements
 
-**Python source code:** The complete implementation.
-**Test cases:** At least 10 test cases covering valid and invalid inputs.
-**Sample output:** Screenshots or terminal output demonstrating the program's behavior.
+- **Python source code:** The complete implementation.
+- **Test cases:** At least 10 test cases other than above suggestion covering valid and invalid inputs.
+- **Sample output:** Screenshots or terminal output demonstrating the program's behavior.
